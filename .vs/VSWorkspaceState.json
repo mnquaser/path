@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\about",
+    "\\assets\\img",
+    "\\tags",
+    "\\_data",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
