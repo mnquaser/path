@@ -3,8 +3,8 @@ layout: post
 title: "Onima"
 date: 2020-07-31
 excerpt: "I love you"
-tags: [sample post, readability, test, image, feature]
-feature:https://i.imgur.com/GYsDLrE.jpg
+tags: []
+feature: https://i.imgur.com/GYsDLrE.jpg
 comments: false
 ---
 so, whats the time. 6:07 AM. cool ami shara rat jagna chilam
