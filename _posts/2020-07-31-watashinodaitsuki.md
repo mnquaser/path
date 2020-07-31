@@ -4,7 +4,7 @@ title: "Onima"
 date: 2020-07-31
 excerpt: "I love you"
 tags: []
-feature: https://i.imgur.com/GYsDLrE.jpg
+feature: https://user-images.githubusercontent.com/68802000/88992240-acc2d100-d304-11ea-9635-b99a62a8c578.jpg
 comments: false
 ---
 so, whats the time. 6:07 AM. cool ami shara rat jagna chilam
