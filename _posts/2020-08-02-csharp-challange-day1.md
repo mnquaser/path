@@ -18,3 +18,10 @@ So I wrote hello world, and couple of basic codes using variables.
 
 I still can't add 2 files in a single project, cause it gives me an error about Main"()" function being used twice.
 I hope I will find a workaround in future.
+
+## Hour 2
+Learned if _ else statemnet. 
+
+Also solved a very basic problem called Watermelon on codeforce to practice
+
+## End of the day ! 2 hours done and 498 hours remaining 
