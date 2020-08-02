@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Learning c#"
+title:  "Learning c# day 1"
 date:   2020-08-02
-excerpt: "500 hours challenge"
+excerpt: " "
 tag:
 - c#
 - 500HourChallange
